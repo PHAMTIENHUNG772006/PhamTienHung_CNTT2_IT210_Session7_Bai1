@@ -1,0 +1,4 @@
+Phân thích yêu cầu đề bài
+
+- nó file input có name không giống với thuộc tính POJO nên form sẽ không thể biết được thuộc tính đó và sẽ bị null
+- giá trị của active sai vì giá trị của có mà true/false nhưng trong input hiện tại là Mở_Cửa không có chuyển đổi dữ liệu làm sai kiểu dữ liệu
